@@ -11,6 +11,7 @@
         "img":"styles/imgs/carousel_img2.jpg",
         "rate":"★★★★★",
         "name":"Нічник",
+        "price":3000,
         "discount":0.5,
         "categories":["bedroom"]
     },
