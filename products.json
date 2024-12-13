@@ -1,0 +1,41 @@
+[
+    {
+        "img":"styles/imgs/carousel_img1.jpg",
+        "rate":"★★★★★",
+        "name":"Крісло з подушкою",
+        "price":3000,
+        "discount":0.5,
+        "categories":["livingRoom", "bedroom"]
+    },
+    {
+        "img":"styles/imgs/carousel_img2.jpg",
+        "rate":"★★★★★",
+        "name":"Нічник",
+        "discount":0.5,
+        "categories":["bedroom"]
+    },
+    {
+        "img":"styles/imgs/carousel_img3.jpg",
+        "rate":"★★★★★",
+        "name":"Лампа настільна",
+        "price":300,
+        "discount":0.7,
+        "categories":["bedroom", "livingRoom"]
+    },
+    {
+        "img":"styles/imgs/carousel_img4.jpg",
+        "rate":"★★★★★",
+        "name":"Коробка плетена",
+        "price":100,
+        "discount":null,
+        "categories":["bedroom", "livingRoom", "kitchen"]
+    },
+    {
+        "img":"styles/imgs/carousel_img5.jpg",
+        "rate":"★★★★★",
+        "name":"Тостер",
+        "price":1500,
+        "discount":0.2,
+        "categories":["kitchen"]
+    }
+]
