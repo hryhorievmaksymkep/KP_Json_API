@@ -5,6 +5,7 @@
         "name":"Крісло з подушкою",
         "price":3000,
         "discount":0.5,
+        "new":true,
         "categories":["livingRoom", "bedroom"]
     },
     {
@@ -13,6 +14,7 @@
         "name":"Нічник",
         "price":3000,
         "discount":0.5,
+        "new":false,
         "categories":["bedroom"]
     },
     {
@@ -21,6 +23,7 @@
         "name":"Лампа настільна",
         "price":300,
         "discount":0.7,
+        "new":true,
         "categories":["bedroom", "livingRoom"]
     },
     {
@@ -29,6 +32,7 @@
         "name":"Коробка плетена",
         "price":100,
         "discount":null,
+        "new":false,
         "categories":["bedroom", "livingRoom", "kitchen"]
     },
     {
@@ -37,6 +41,71 @@
         "name":"Тостер",
         "price":1500,
         "discount":0.2,
+        "new":true,
         "categories":["kitchen"]
+    },
+    {
+        "img": "styles/imgs/carousel_img6.jpg",
+        "rate": "★★★★☆",
+        "name": "Диван",
+        "price": 12000,
+        "discount": 0.15,
+        "new": false,
+        "categories": ["living room"]
+    },
+    {
+        "img": "styles/imgs/carousel_img7.jpg",
+        "rate": "★★★☆☆",
+        "name": "Тумбочка",
+        "price": 2500,
+        "discount": 0.1,
+        "new": false,
+        "categories": ["bedroom, living room"]
+    },
+    {
+        "img": "styles/imgs/carousel_img8.jpg",
+        "rate": "★★★★★",
+        "name": "Стілець",
+        "price": 1000,
+        "discount": 0.05,
+        "new": true,
+        "categories": ["kitchen"]
+    },
+    {
+        "img": "styles/imgs/carousel_img9.jpg",
+        "rate": "★★★★☆",
+        "name": "Лампа настільна",
+        "price": 1800,
+        "discount": 0.2,
+        "new": true,
+        "categories": ["bedroom"]
+    },
+    {
+        "img": "styles/imgs/carousel_img10.jpg",
+        "rate": "★★★★☆",
+        "name": "Столик",
+        "price": 3000,
+        "discount": 0.1,
+        "new": false,
+        "categories": ["living room, kitchen"]
+    },
+    {
+        "img": "styles/imgs/carousel_img11.jpg",
+        "rate": "★★★★★",
+        "name": "Подушка декоративна",
+        "price": 500,
+        "discount": 0.05,
+        "new": true,
+        "categories": ["living room, bedroom"]
+    },
+    {
+        "img": "styles/imgs/carousel_img12.jpg",
+        "rate": "★★★★★",
+        "name": "Подушка для сну",
+        "price": 800,
+        "discount": 0.1,
+        "new": false,
+        "categories": ["bedroom, living room"]
     }
+    
 ]
